@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/landing-page-thrivetalk/static/css/main.5b7df426.chunk.css",
+    "main.js": "/landing-page-thrivetalk/static/js/main.12edbb98.chunk.js",
+    "main.js.map": "/landing-page-thrivetalk/static/js/main.12edbb98.chunk.js.map",
+    "runtime-main.js": "/landing-page-thrivetalk/static/js/runtime-main.93dd350c.js",
+    "runtime-main.js.map": "/landing-page-thrivetalk/static/js/runtime-main.93dd350c.js.map",
+    "static/js/2.3840c378.chunk.js": "/landing-page-thrivetalk/static/js/2.3840c378.chunk.js",
+    "static/js/2.3840c378.chunk.js.map": "/landing-page-thrivetalk/static/js/2.3840c378.chunk.js.map",
+    "index.html": "/landing-page-thrivetalk/index.html",
+    "static/css/main.5b7df426.chunk.css.map": "/landing-page-thrivetalk/static/css/main.5b7df426.chunk.css.map",
+    "static/js/2.3840c378.chunk.js.LICENSE.txt": "/landing-page-thrivetalk/static/js/2.3840c378.chunk.js.LICENSE.txt",
+    "static/media/contactUs.b904c58f.jpg": "/landing-page-thrivetalk/static/media/contactUs.b904c58f.jpg",
+    "static/media/contacts.f94a0039.jpg": "/landing-page-thrivetalk/static/media/contacts.f94a0039.jpg",
+    "static/media/headerImg.bb420e64.png": "/landing-page-thrivetalk/static/media/headerImg.bb420e64.png",
+    "static/media/App.module.scss": "/landing-page-thrivetalk/static/media/larsseit_regular.feaaeb1c.eot",
+    "static/media/list-background.c41b7509.jpg": "/landing-page-thrivetalk/static/media/list-background.c41b7509.jpg",
+    "static/media/shouldKnow.d09e4653.jpg": "/landing-page-thrivetalk/static/media/shouldKnow.d09e4653.jpg",
+    "static/media/whyThrive.dc5225ce.jpg": "/landing-page-thrivetalk/static/media/whyThrive.dc5225ce.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93dd350c.js",
+    "static/js/2.3840c378.chunk.js",
+    "static/css/main.5b7df426.chunk.css",
+    "static/js/main.12edbb98.chunk.js"
+  ]
+}
