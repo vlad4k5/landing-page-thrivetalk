@@ -1,3 +1,5 @@
+@import "../../assets/scss/mixins";
+
 .contactUsBlock {
   margin: 0;
   height: 800px;
@@ -38,16 +40,12 @@
     }
 
     button {
+      @include transparentButton(#62d0df);
       margin-top: 80px;
-      cursor: pointer;
-      border: none;
-      background-color: transparent;
       font-size: 16px;
       line-height: 23px;
       font-weight: 600;
-      align-items: center;
       letter-spacing: 0.1em;
-      color: #62d0df;
     }
   }
 }

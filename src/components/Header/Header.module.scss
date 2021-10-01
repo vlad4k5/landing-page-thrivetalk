@@ -1,3 +1,5 @@
+@import "../../assets/scss/mixins";
+
 .headerBlock {
   height: 840px;
   background: #f4f9e2;
@@ -17,16 +19,16 @@
 
     nav {
       display: flex;
+      align-items: center;
       gap: 13px;
       margin: 40px 320px 0 320px;
 
       button {
-        color: #22356f;
+        @include transparentButton(#22356f);
+        height: 20px;
+        z-index: 2;
         font-size: 14px;
         line-height: 16px;
-        cursor: pointer;
-        background-color: transparent;
-        border: none;
       }
     }
 
@@ -64,7 +66,9 @@
     }
 
     .headerInfoButtons {
+      margin-top: 65px;
       display: flex;
+      align-items: center;
       gap: 35px;
 
       .whoAmIButton {
@@ -81,14 +85,12 @@
       }
 
       .whatDoIDoButton {
+        @include transparentButton(#fab63e);
+        height: 30px;
         font-weight: 600;
-        cursor: pointer;
-        border: none;
-        background-color: transparent;
         font-size: 16px;
         line-height: 23px;
         letter-spacing: 0.1em;
-        color: #fab63e;
       }
     }
   }

@@ -1,0 +1,26 @@
+@mixin transparentButton($underlineColor) {
+  color: $underlineColor;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: relative;
+
+  &::after {
+    content: "";
+    position: absolute;
+    width: 120%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: -3px;
+    left: -10%;
+    background-color: $underlineColor;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+  }
+
+  &:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+}

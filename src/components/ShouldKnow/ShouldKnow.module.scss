@@ -1,3 +1,5 @@
+@import "../../assets/scss/mixins";
+
 .mainBLock {
   display: flex;
   gap: 106px;
@@ -34,16 +36,12 @@
     }
 
     button {
-      margin-top: 170px;
-      cursor: pointer;
-      border: none;
-      background-color: transparent;
+      @include transparentButton(#fab63e);
+      margin-top: 155px;
       font-size: 16px;
       line-height: 23px;
       font-weight: 600;
-      align-items: center;
       letter-spacing: 0.1em;
-      color: #fab63e;
     }
   }
 }

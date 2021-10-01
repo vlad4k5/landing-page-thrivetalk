@@ -32,27 +32,27 @@ const HelpWith = () => {
 
       <li>
         <h3>Weight Loss</h3>
-        <p>Nutritional Facts on some shitty things that you don’t care about and even we don’t , I need to replace this copy.</p>
+        <p>Even a modest weight loss of 5 to 10 percent of your total body weight is likely to produce health benefits.</p>
       </li>
 
       <li>
         <h3>Mental Peace</h3>
-        <p>Nutritional Facts on some shitty things that you don’t care about and even we don’t , I need to replace this copy.</p>
+        <p>Refers to the deliberate state of spiritual calm and the potential of stressors.</p>
       </li>
 
       <li>
         <h3>Home Training</h3>
-        <p>Nutritional Facts on some shitty things that you don’t care about and even we don’t , I need to replace this copy.</p>
+        <p>Stick with our home workouts, and you will notice a change in your body in just a few short weeks.</p>
       </li>
 
       <li>
         <h3>Work/Life Balance</h3>
-        <p>Nutritional Facts on some shitty things that you don’t care about and even we don’t , I need to replace this copy.</p>
+        <p>This is a way of life in which everything is harmoniously divided - work, family, hobbies, leisure, self-development.</p>
       </li>
 
       <li>
         <h3>Cardio</h3>
-        <p>Nutritional Facts on some shitty things that you don’t care about and even we don’t , I need to replace this copy.</p>
+        <p>Is defined as any type of exercise that gets your heart rate up and keeps it up for a prolonged period of time.</p>
       </li>
       
     </ul>
