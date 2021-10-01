@@ -70,7 +70,6 @@
     margin: 0 0 60px 0;
     font-size: 14px;
     line-height: 11px;
-    letter-spacing: -0.006em;
     color: #22356f;
   }
 
@@ -99,13 +98,14 @@ footer {
 
   p {
     font-size: 14px;
+    font-weight: 600;
     line-height: 11px;
-    letter-spacing: -0.006em;
     color: #ffffff;
     position: relative;
 
     &::before {
       position: absolute;
+      font-weight: 400;
       top: 2px;
       left: -15px;
       content: "©";

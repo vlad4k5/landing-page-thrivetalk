@@ -3,6 +3,7 @@
     margin: 0;
     padding: 75px 0 25px 0;
     font-size: 16px;
+    font-weight: 400;
     line-height: 19px;
     text-align: center;
     letter-spacing: 0.06em;
@@ -21,7 +22,7 @@
       span {
         font-size: 32px;
         line-height: 34px;
-        letter-spacing: -0.006em;
+        font-weight: 600;
         padding-left: 25px;
 
         &::before {
@@ -120,9 +121,9 @@
       padding: 55px 105px;
 
       h3 {
+        font-weight: 400;
         font-size: 28px;
         line-height: 33px;
-        letter-spacing: -0.03em;
         color: #22356f;
       }
 

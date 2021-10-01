@@ -1,8 +1,11 @@
 @import "./assets/scss/fonts";
 
 .app {
-  font-family: "Larsseit";
   width: 1440px;
   margin: 0 auto;
   overflow: hidden;
+}
+
+* {
+  font-family: "Larsseit";
 }
