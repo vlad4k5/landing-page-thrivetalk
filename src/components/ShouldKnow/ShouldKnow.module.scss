@@ -1,0 +1,49 @@
+.mainBLock {
+  display: flex;
+  gap: 106px;
+
+  img {
+    height: 800px;
+  }
+
+  .infoBlock {
+    padding: 103px 0px 0px 0px;
+
+    h3 {
+      font-weight: 300;
+      margin: 0;
+      font-size: 16px;
+      line-height: 12px;
+      letter-spacing: 0.06em;
+      color: #22356f;
+    }
+
+    p {
+      font-weight: 600;
+      max-width: 675px;
+      margin: 0;
+      padding-top: 240px;
+      font-size: 36px;
+      line-height: 53px;
+      letter-spacing: -0.01em;
+      color: #22356f;
+
+      span {
+        color: #6cd3e1;
+      }
+    }
+
+    button {
+      margin-top: 170px;
+      cursor: pointer;
+      border: none;
+      background-color: transparent;
+      font-size: 16px;
+      line-height: 23px;
+      font-weight: 600;
+      align-items: center;
+      letter-spacing: 0.1em;
+      color: #fab63e;
+    }
+  }
+}
