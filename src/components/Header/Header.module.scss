@@ -44,6 +44,11 @@
       border: none;
       border-radius: 50px;
       z-index: 2;
+      transition: 0.25s;
+
+      &:hover {
+        background-color: darken(#62d0df, 10%);
+      }
     }
   }
 
@@ -82,6 +87,11 @@
         line-height: 23px;
         letter-spacing: 0.1em;
         color: #ffffff;
+        transition: 0.25s;
+
+        &:hover {
+          background-color: darken(#f9b640, 10%);
+        }
       }
 
       .whatDoIDoButton {
